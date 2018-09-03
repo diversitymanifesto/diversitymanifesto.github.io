@@ -1,27 +1,32 @@
-# Collect input
+# Collect Input
 
-Survey
-PRs to repo
-Email : info@diversitymanifesto.org
-Meetings with those in the games industry
-Leaders in D&I
+- Survey
+- PRs to repo
+- Email : info@diversitymanifesto.org
+- Meetings with those in the games industry
+- Leaders in D&I
 
-# Buy in
+# Form Alliance
 
-Who should invest time into helping with this? Any organiation which is serious about D&I and who claims to be "socially responsible".
+Ask studios, individuals. groups to sign up to this effort publically.  Use this to spread the word.
 
-Content generated through this initiative may be presented at future tech conferences.  Solving D&I shortcomings internally is fantastic, working with partners and competitors to solve these issues across
-an industry is awesome.
+# Buy In
 
-Everyone welcome. Ideally we build a diverse, cross function group of 10 - 12 individuals who will help with the final draft. 
+Who should invest time into helping with this? Any organization which is serious about D&I and who claims to be "socially responsible".
+
+Content generated through this initiative may be presented at future tech conferences.  Solving D&I shortcomings internally is fantastic, working with partners and competitors to solve these issues across an industry is being "socially responsible".
+
+Everyone welcome. Ideally we build a diverse, cross functional group of 10 - 12 individuals who will help with the final draft. 
 
 # Add useful resources to page
 
-Similar to awesome docs. Links to whitepapers, studies, D&I content from other orgs such as Uber, Facebook and Twitter.
+* Similar to awesome docs. Links to whitepapers, studies, D&I content from other orgs such as Uber, Facebook and Twitter.
 
 * The "No Asshole Rule". Wikipedia article [here](https://en.wikipedia.org/wiki/The_No_Asshole_Rule), Amazon.co.uk link [here](https://www.amazon.co.uk/Asshole-Rule-Civilised-Workplace-Surviving/dp/0749954035/ref=sr_1_1?ie=UTF8&qid=1535893610&sr=8-1&keywords=no+asshole+rule)
 
-# 3 basic components of the manifesto
+* Some great tips in here and potential volunteers : https://venturebeat.com/2017/07/05/60-tips-for-being-a-leader-on-inclusivity-creativity-and-diversity/
+
+# 3 Basic Components Of The Manifesto
 
 ## Beliefs
 
